@@ -1,68 +1,63 @@
 # 🏏 Virat Kohli ODI Performance Analytics Dashboard
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=F75C03&size=28&center=true&vCenter=true&width=800&lines=Virat+Kohli+Performance+Analytics+Dashboard;Power+BI+Sports+Analytics+Project;Data+Storytelling+Using+Visualization" />
-</p>
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Project-blue)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+## Overview
 
----
+This project presents an interactive Power BI dashboard analyzing the ODI career performance of Virat Kohli. The dashboard transforms raw cricket statistics into actionable insights through KPI-driven reporting, trend analysis, and interactive visualizations.
 
-## 📌 Project Description
-
-This project presents an interactive analytical dashboard focused on the One Day International (ODI) cricket performance of Virat Kohli.
-
-The dashboard was developed using Power BI to explore performance trends, batting consistency, and career progression through data-driven insights.
+The project demonstrates end-to-end analytics workflow including data preparation, modeling, DAX calculations, and dashboard development.
 
 ---
 
-## 🎯 Objectives
+## Business Objective
 
-- Analyze ODI performance trends
-- Identify peak performance years
-- Evaluate scoring consistency
-- Create interactive sports analytics dashboard
-- Demonstrate end-to-end data analytics workflow
+The objective of this project is to analyze Virat Kohli's ODI batting performance across his career and identify patterns related to scoring consistency, peak performance periods, and overall contribution using interactive visual analytics.
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Highlights
 
-- Total Runs KPI
-- Matches Played Overview
-- Year-wise Performance Analysis
-- Centuries & Half-Centuries Tracking
-- Interactive Filters & Slicers
-- Dynamic KPI Cards
-- Performance Trend Visualization
-
----
-
-## 🛠 Tools & Technologies
-
-- Power BI Desktop
-- Power Query (ETL)
-- DAX Measures
-- Data Modeling
-- CSV Dataset
+* Career Runs Overview
+* Matches Played Analysis
+* Year-wise Performance Trends
+* Centuries and Half-Centuries Analysis
+* Interactive Filters and Slicers
+* Dynamic KPI Cards
+* Performance Progression Tracking
+* Comparative Trend Visualizations
 
 ---
 
-## 🖼 Dashboard Preview
+## Tools & Technologies
 
-<img width="1303" height="737" alt="dashboard" src="https://github.com/user-attachments/assets/e94a7d30-3cbc-4267-a1d7-3ae9c2a6b580" />
-
-</p>
+* Power BI Desktop
+* Power Query
+* DAX
+* Data Modeling
+* Microsoft Excel / CSV Data Sources
 
 ---
 
-## 📂 Project Structure
+## Dashboard Preview
 
-```
+![Dashboard Preview](dashboard_preview.png)
+
+---
+
+## Key Insights
+
+* Identified peak scoring years across Virat Kohli's ODI career.
+* Evaluated batting consistency through century and half-century analysis.
+* Analyzed long-term performance trends using time-series visualizations.
+* Enabled interactive exploration of performance metrics through slicers and filters.
+
+---
+
+## Project Structure
+
+```text
 Virat-Kohli-ODI-Dashboard
 │
-├── Virat_kohli_Dashboard.pbit
+├── Virat_Kohli_Dashboard.pbix
 ├── Dataset/
 ├── dashboard_preview.png
 └── README.md
@@ -70,54 +65,44 @@ Virat-Kohli-ODI-Dashboard
 
 ---
 
-## 🚀 How to Use
+## Skills Demonstrated
 
-1. Download the `.pbit` file
-2. Open using Power BI Desktop
-3. Load dataset when prompted
-4. Explore dashboard interactively
-
----
-
-## 📈 Key Insights
-
-- ODI career performance trends identified
-- Peak scoring phases highlighted
-- Consistency patterns analyzed across years
-- Interactive exploration enabled through filters
+* Data Cleaning & Transformation
+* Data Modeling
+* DAX Measure Development
+* KPI Design
+* Dashboard Development
+* Data Visualization
+* Analytical Storytelling
+* Business Intelligence Reporting
 
 ---
 
-## 💼 Skills Demonstrated
+## How to Use
 
-- Data Cleaning
-- Data Transformation
-- Dashboard Design
-- KPI Development
-- Data Visualization
-- Analytical Thinking
+1. Download the Power BI project file.
+2. Open the file using Power BI Desktop.
+3. Refresh or connect the dataset if required.
+4. Interact with filters and visualizations to explore insights.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-**Anand Kumar — Data Analyst**
+**Akshat Trivedi**
 
-Skills:
-- Python
-- Pandas
-- SQL
-- Power BI
-- Tableau
+Data Analytics | Business Intelligence | Data Visualization
 
----
+**Core Skills**
 
-## ⭐ Support
-
-If you like this project:
-
-⭐ Star this repository  
-🍴 Fork the project  
-💬 Connect and share feedback
+* SQL
+* Python
+* Power BI
+* Tableau
+* Excel
+* Pandas
+* Data Analysis
 
 ---
+
+This project is part of a portfolio demonstrating practical applications of Business Intelligence and Data Analytics using Power BI.
