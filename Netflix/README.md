@@ -106,7 +106,7 @@ Netflix-Analytics-Dashboard
 
 ## 👨‍💻 Author
 
-**Anand Kumar — Data Analyst Portfolio**
+**Akshat Trivedi — Data Scientist Portfolio**
 
 Passionate about turning data into actionable insights.
 
