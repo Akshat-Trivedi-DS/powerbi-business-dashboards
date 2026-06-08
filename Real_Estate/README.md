@@ -1,134 +1,115 @@
-<h1 align="center">🏠 Real Estate Market Analysis Dashboard</h1>
+# 🏠 Real Estate Market Analysis Dashboard
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=800&lines=Data+Analyst+Portfolio;Power+BI+Dashboard+Developer;Turning+Data+Into+Insights"/>
-</p>
+## Overview
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anandpal3244-coder&label=Profile%20Views&color=blue&style=flat"/>
-</p>
+This project presents an interactive Power BI dashboard designed to analyze real estate market trends, property valuations, and regional performance metrics. The dashboard enables users to explore key market indicators and identify high-potential investment opportunities through data-driven insights.
 
-<p align="center">
-  <b>End-to-End Data Analytics Project | Power BI | Data Visualization | Business Insights</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Tool-PowerBI-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Domain-Real%20Estate-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Project-Type%20Dashboard-success?style=for-the-badge"/>
-</p>
+The project demonstrates the complete analytics workflow, including data preparation, modeling, KPI development, and dashboard visualization.
 
 ---
 
-## 🚀 Project Overview
+## Business Objective
 
-This project focuses on **Real Estate Market Analysis** using an interactive **Power BI Dashboard**.
-
-The dashboard helps stakeholders understand:
-
-✔ Property pricing trends  
-✔ Location-wise performance  
-✔ Sales distribution  
-✔ Investment opportunities  
-✔ Market insights for decision making  
+The objective of this project is to provide stakeholders with a centralized analytical solution for monitoring property market performance, evaluating pricing trends, and supporting investment decision-making through interactive reporting.
 
 ---
 
-## 🎯 Business Problem
+## Dashboard Highlights
 
-Real estate investors and businesses often struggle to:
-
-- Identify profitable locations
-- Analyze property price trends
-- Understand sales performance
-- Track market growth
-
-This dashboard transforms raw data into **actionable insights**.
-
----
-
-## 📊 Dashboard Features
-
-✅ Interactive Filters & Slicers  
-✅ KPI Cards for Quick Insights  
-✅ Location-wise Analysis  
-✅ Price Trend Visualization  
-✅ Property Distribution Analysis  
-✅ Clean & Professional UI Design  
+* Property Price Analysis
+* Regional Market Performance Tracking
+* Sales Distribution Analysis
+* Property Category Insights
+* Interactive Filters and Slicers
+* Dynamic KPI Cards
+* Trend Analysis Visualizations
+* Executive-Level Reporting Dashboard
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
-- Power BI
-- Data Cleaning
-- Data Modeling
-- DAX Measures
-- Data Visualization
-- Business Intelligence Concepts
-
----
-
-## 📸 Dashboard Preview
-
-<p align="center">
-  <img width="1321" height="742" alt="Dashboard" src="https://github.com/user-attachments/assets/d983ffc2-c838-48a6-aa20-382b1de57602" />
-
-</p>
-
-## 📂 Project Structure
-
-
-📁 Real-Estate-Dashboard
-┣ 📊 Real Estate Dashboard.pbix
-┣ 📸 dashboard.png
-┗ 📄 README.md
-
+* Power BI Desktop
+* Power Query
+* DAX
+* Data Modeling
+* Data Visualization
+* Business Intelligence Reporting
 
 ---
 
-## 📈 Key Insights Generated
+## Dashboard Preview
 
-- High-value property locations identified
-- Pricing trends across regions analyzed
-- Market demand patterns visualized
-- Investment decision support dashboard
+![Dashboard Preview](dashboard.png)
 
 ---
 
-## 💡 Skills Demonstrated
+## Key Insights
 
-✔ Data Analysis  
-✔ Data Visualization  
-✔ Dashboard Design  
-✔ Business Thinking  
-✔ Storytelling with Data  
-
----
-
-## ⭐ Project Outcome
-
-Converted raw real estate data into a **decision-making dashboard** helping users analyze property markets efficiently.
+* Identified high-value property markets and growth regions.
+* Analyzed pricing trends across locations and property categories.
+* Evaluated sales distribution and market demand patterns.
+* Enabled data-driven assessment of investment opportunities.
 
 ---
 
-## 👨‍💻 Author
+## Project Structure
 
-**Akshat Trivedi — Data Scientist Portfolio**
-
-
----
-
-## 🌟 Support
-
-If you like this project:
-
-⭐ Star the Repository  
-🍴 Fork the Project  
-📢 Share Feedback  
+```text
+Real-Estate-Market-Analysis
+│
+├── Real_Estate_Dashboard.pbix
+├── dashboard.png
+├── Dataset/
+└── README.md
+```
 
 ---
 
-<p align="center">
-🚀 Turning Data Into Decisions
-</p>
+## Skills Demonstrated
+
+* Data Cleaning & Transformation
+* Data Modeling
+* DAX Measure Development
+* KPI Design
+* Dashboard Development
+* Data Visualization
+* Business Analytics
+* Analytical Storytelling
+
+---
+
+## Business Value
+
+This dashboard transforms raw real estate data into actionable insights, enabling users to monitor market performance, identify emerging opportunities, and make informed investment decisions.
+
+---
+
+## How to Use
+
+1. Download the Power BI project file.
+2. Open the dashboard using Power BI Desktop.
+3. Refresh the dataset if required.
+4. Interact with filters and visualizations to explore market insights.
+
+---
+
+## Author
+
+**Akshat Trivedi**
+
+Data Analytics | Business Intelligence | Data Visualization
+
+**Core Skills**
+
+* SQL
+* Python
+* Power BI
+* Tableau
+* Excel
+* Pandas
+* Data Analysis
+
+---
+
+This project is part of a portfolio showcasing practical applications of Business Intelligence and Data Analytics using Power BI.
