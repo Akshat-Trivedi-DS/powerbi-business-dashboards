@@ -1,121 +1,133 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=E50914&size=28&center=true&vCenter=true&width=900&lines=Netflix+Analytics+Dashboard;Power+BI+Data+Analysis+Project;Data+Storytelling+Using+Visualization;Aspiring+Data+Analyst+Portfolio" />
-</p>
+# 🎬 Netflix Content Analytics Dashboard
 
-# 🎬 Netflix Analytics Dashboard | Power BI Project
+## Overview
 
-<p align="center">
-<img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-Portfolio-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
-</p>
+This project presents an interactive Power BI dashboard designed to analyze Netflix's content catalog and distribution trends. The dashboard provides insights into content growth, genre distribution, regional content availability, and platform composition through dynamic visualizations and KPI-driven reporting.
+
+The project demonstrates end-to-end business intelligence development, including data preparation, transformation, modeling, DAX calculations, and dashboard design.
 
 ---
 
-## 🚀 Project Overview
+## Business Objective
 
-This project showcases an **interactive Netflix Analytics Dashboard** created using Power BI.
-
-The goal of this project is to transform raw streaming platform data into meaningful business insights through data visualization and storytelling.
+Streaming platforms manage extensive content libraries spanning multiple genres, countries, and content formats. The objective of this project is to transform Netflix content data into actionable insights that help stakeholders understand content trends, catalog composition, and distribution patterns.
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Highlights
 
-<p align="center">
-
-<img width="1292" height="718" alt="dashboard" src="https://github.com/user-attachments/assets/693a5923-d57d-4649-af05-5016b0b95b09" />
-
-
-</p>
-
-## 🎯 Business Problem
-
-Streaming platforms manage thousands of movies and TV shows worldwide.  
-This dashboard helps analyze:
-
-- Content growth over time  
-- Movies vs TV Shows distribution  
-- Country-wise content production  
-- Genre popularity trends  
-- Rating distribution insights  
+* Content Library Overview
+* Movies vs TV Shows Analysis
+* Genre Distribution Analysis
+* Country-wise Content Distribution
+* Release Year Trend Analysis
+* Rating Category Analysis
+* Interactive Filters and Slicers
+* Dynamic KPI Cards
+* Executive-Level Reporting Dashboard
 
 ---
 
-## 🧠 Key Insights
+## Tools & Technologies
 
-✅ Total Netflix Titles Analysis  
-✅ Movie vs TV Show Comparison  
-✅ Release Year Trend Analysis  
-✅ Genre Distribution  
-✅ Country-wise Content Production  
-✅ Rating Category Analysis  
-
----
-
-## 🛠 Tools & Technologies Used
-
-| Tool | Purpose |
-|------|------|
-| Microsoft Power BI Desktop | Dashboard Development |
-| Power Query | Data Cleaning |
-| DAX | Measures & KPIs |
-| Excel / CSV Dataset | Data Source |
-| GitHub | Project Hosting |
+* Power BI Desktop
+* Power Query
+* DAX
+* Data Modeling
+* Data Visualization
+* Business Intelligence Reporting
+* Excel / CSV Data Sources
 
 ---
 
-## ⚡ Dashboard Features
+## Dashboard Preview
 
-✨ Interactive Filters  
-✨ KPI Cards  
-✨ Dynamic Visualizations  
-✨ Business Intelligence Reporting  
-✨ Clean & Professional Layout  
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 
-## 📁 Repository Structure
-Netflix-Analytics-Dashboard
+## Key Performance Indicators
+
+The dashboard includes several key metrics to evaluate platform content distribution:
+
+* Total Content Titles
+* Total Movies
+* Total TV Shows
+* Total Countries Represented
+* Total Genres
+* Content Release Trends
+* Content Ratings Distribution
+
+---
+
+## Key Insights
+
+* Analyzed the distribution of movies and television shows across the Netflix catalog.
+* Identified the most represented genres and content categories.
+* Evaluated content production trends over time through release year analysis.
+* Examined geographic distribution of content across countries and regions.
+* Explored content rating patterns to better understand audience targeting.
+
+---
+
+## Project Structure
+
+```text
+Netflix-Content-Analytics-Dashboard
 │
 ├── Netflix.pbix
-├── dashboard
-├── Bg   
-
-
----
-
-## 📈 Skills Demonstrated
-
-✔ Data Cleaning  
-✔ Data Visualization  
-✔ Dashboard Design  
-✔ Business Analysis  
-✔ Data Storytelling  
-✔ Power BI Development  
+├── Dataset/
+├── dashboard_preview.png
+├── background_assets/
+└── README.md
+```
 
 ---
 
-## 🚀 Future Improvements
+## Skills Demonstrated
 
-- Real-time streaming analytics
-- Viewer engagement metrics
-- Predictive content trend analysis
-
----
-
-## 👨‍💻 Author
-
-**Akshat Trivedi — Data Scientist Portfolio**
-
-Passionate about turning data into actionable insights.
+* Data Cleaning & Transformation
+* Data Modeling
+* DAX Measure Development
+* Dashboard Development
+* KPI Design
+* Data Visualization
+* Business Analytics
+* Analytical Storytelling
 
 ---
 
-## ⭐ Support
+## Business Value
 
-If you like this project, give it a ⭐ on GitHub!
+This dashboard transforms raw streaming platform data into meaningful business insights, enabling users to analyze content composition, identify trends, and explore distribution patterns through an interactive reporting experience.
 
-<p align="center">
-🚀 Turning Data Into Decisions 🚀
-</p>
+---
+
+## How to Use
+
+1. Download the Power BI project file.
+2. Open the dashboard using Power BI Desktop.
+3. Refresh the dataset if required.
+4. Explore the dashboard through interactive filters and visualizations.
+
+---
+
+## Author
+
+**Akshat Trivedi**
+
+Data Analytics | Business Intelligence | Data Visualization
+
+**Core Skills**
+
+* SQL
+* Python
+* Power BI
+* Tableau
+* Excel
+* Pandas
+* Data Analysis
+
+---
+
+This project is part of a portfolio showcasing practical applications of Business Intelligence and Data Analytics using Power BI.
