@@ -1,135 +1,129 @@
-<div align="center">
+# 🎬 Prime Video Content Analytics Dashboard
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png" width="280"/>
+## Overview
 
-# 🎬 PRIME VIDEO ANALYSIS DASHBOARD
+This project presents an interactive Power BI dashboard designed to analyze Amazon Prime Video's content catalog. The dashboard provides insights into content distribution, genre trends, geographic reach, and platform growth through interactive visualizations and KPI-driven reporting.
 
-### 🌌 OTT Streaming Analytics Dashboard Built with Power BI
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00A8E1&center=true&vCenter=true&width=900&lines=Interactive+Power+BI+Dashboard;Amazon+Prime+Video+Analytics;Cinematic+OTT+Style+UI;Streaming+Insights+%26+Visualizations;Data+Analytics+Portfolio+Project"/>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/POWER%20BI-DASHBOARD-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DATA%20ANALYTICS-PROJECT-00A8E1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STATUS-COMPLETED-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UI%2FUX-PREMIUM-blueviolet?style=for-the-badge"/>
-
-</p>
+The project demonstrates end-to-end business intelligence development, including data transformation, modeling, DAX calculations, and dashboard design.
 
 ---
 
-## 🌟 PROJECT OVERVIEW
+## Business Objective
 
-This project is a **premium OTT platform-inspired analytics dashboard** created using **Power BI**.  
-The dashboard provides deep insights into **Amazon Prime Video’s Movies & TV Shows dataset** through advanced visual storytelling, interactive filters, KPI cards, and cinematic UI design.
-
-Designed with a **Netflix / Prime Video inspired interface**, this dashboard transforms raw entertainment data into meaningful business insights.
+Streaming platforms generate large volumes of content-related data across multiple regions and categories. The objective of this project is to transform raw Prime Video content data into actionable insights that help stakeholders understand content distribution, audience preferences, and platform growth trends.
 
 ---
 
-# 🔥 LIVE DASHBOARD PREVIEW
+## Dashboard Highlights
 
-<p align="center">
-<img width="1112" height="625" alt="Screenshot 2026-05-26 182229" src="https://github.com/user-attachments/assets/c5ce00fe-572a-4c66-9c43-76659f50923e" />
-
-</p>
-
----
-
-# 🎯 KEY HIGHLIGHTS
-
-✨ Dark Cinematic Theme  
-✨ Interactive Sidebar Navigation  
-✨ Advanced KPI Cards  
-✨ Dynamic Filters & Slicers  
-✨ Genre & Ratings Analysis  
-✨ Country-Wise Content Distribution  
-✨ OTT Platform Inspired Design  
-✨ Premium UI/UX Experience  
+* Content Library Overview
+* Movies vs TV Shows Analysis
+* Genre Distribution Analysis
+* Country-wise Content Distribution
+* Release Year Trend Analysis
+* Interactive Filters and Slicers
+* Dynamic KPI Cards
+* Executive-Level Reporting Dashboard
 
 ---
 
-# 🎨 DASHBOARD FEATURES
+## Tools & Technologies
 
-<table>
-<tr>
-<td width="50%">
-
-## 📌 KPI Metrics
-
-- 🎬 Total Movies
-- 📺 Total TV Shows
-- ⭐ Average Ratings
-- 🌍 Total Countries
-- 🎭 Total Genres
-
-</td>
-
-<td width="50%">
-
-## 📊 Visual Analytics
-
-- 🌎 World Content Map
-- 📈 Content Growth Trend
-- 🍩 Content Type Distribution
-- 🎭 Genre Analysis
-- 🎬 Director Insights
-- 🔥 Trending Shows Section
-
-</td>
-</tr>
-</table>
+* Power BI Desktop
+* Power Query
+* DAX
+* Data Modeling
+* Data Visualization
+* Business Intelligence Reporting
 
 ---
 
-# 🖼️ DASHBOARD SECTIONS
+## Dashboard Preview
 
-| Section | Description |
-|----------|-------------|
-| 🎬 KPI Cards | Key streaming platform metrics |
-| 🌎 World Map | Country-wise content distribution |
-| 📈 Trend Analysis | Content growth over years |
-| 🍩 Donut Chart | Movies vs TV Shows |
-| 🎭 Genres Chart | Top categories analysis |
-| 🔥 Trending Shows | OTT poster showcase |
-| 🎛️ Filter Panel | Dynamic user interaction |
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 
-# 🛠️ TOOLS & TECHNOLOGIES
+## Key Performance Indicators
 
-<p align="center">
+The dashboard includes several key metrics for monitoring platform content performance:
 
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX-Advanced-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PowerQuery-Transform-orange?style=for-the-badge"/>
-
-</p>
-
----
-
-# 📂 DATASET DETAILS
-
-The dataset contains:
-
-✅ Movies & TV Shows  
-✅ Ratings Information  
-✅ Genre Categories  
-✅ Country Distribution  
-✅ Directors & Cast  
-✅ Release Year Trends  
+* Total Content Titles
+* Total Movies
+* Total TV Shows
+* Total Countries Represented
+* Total Genres
+* Release Year Trends
 
 ---
 
-# ⚡ DAX MEASURES USED
+## Key Insights
 
-## 🎬 Total Movies
+* Analyzed the distribution of movies and TV shows across the platform.
+* Identified the most represented genres within the content library.
+* Evaluated content availability across different countries and regions.
+* Examined content growth patterns over time through release year analysis.
+* Enabled interactive exploration using dynamic filters and slicers.
 
-```DAX
-Total Movies = 
-CALCULATE(
-    COUNTROWS(amazon_prime_titles),
-    amazon_prime_titles[type] = "Movie"
-)
+---
+
+## Project Structure
+
+```text
+Prime-Video-Analytics-Dashboard
+│
+├── Prime_Video.pbix
+├── Dataset/
+├── dashboard_preview.png
+└── README.md
+```
+
+---
+
+## Skills Demonstrated
+
+* Data Cleaning & Transformation
+* Data Modeling
+* DAX Measure Development
+* Dashboard Development
+* KPI Design
+* Data Visualization
+* Business Analytics
+* Analytical Storytelling
+
+---
+
+## Business Value
+
+This dashboard converts entertainment content data into meaningful business insights, helping users understand platform composition, content trends, and distribution patterns through an interactive reporting experience.
+
+---
+
+## How to Use
+
+1. Download the Power BI project file.
+2. Open the dashboard using Power BI Desktop.
+3. Refresh the dataset if required.
+4. Explore the dashboard using filters and interactive visualizations.
+
+---
+
+## Author
+
+**Akshat Trivedi**
+
+Data Analytics | Business Intelligence | Data Visualization
+
+**Core Skills**
+
+* SQL
+* Python
+* Power BI
+* Tableau
+* Excel
+* Pandas
+* Data Analysis
+
+---
+
+This project is part of a portfolio showcasing practical applications of Business Intelligence and Data Analytics using Power BI.
