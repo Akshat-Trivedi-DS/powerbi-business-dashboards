@@ -114,10 +114,8 @@ Converted raw real estate data into a **decision-making dashboard** helping user
 
 ## 👨‍💻 Author
 
-**Anand Kumar— Data Analyst**
+**Akshat Trivedi — Data Scientist Portfolio**
 
-- Python | Power BI | SQL | Tableau
-- Passionate about Data Analytics & Visualization
 
 ---
 
